@@ -1,3 +1,10 @@
+<h1>Plezy For SteamOS</h1>
+
+As Plezy has dropped support for X11 builds, the latest version of Plezy no longer works on SteamOS. This fork is the latest version of Plezy that still works, primarily for archival purposes.
+
+If Plezy decides to reopen support for SteamOS (something I am urging them to do with the release of the SteamMachine) then this fork will be closed. 
+
+
 <h1>
   <img src="assets/plezy.png" alt="Plezy Logo" height="24" style="vertical-align: middle;" />
   Plezy
